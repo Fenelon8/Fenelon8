@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Rosenie Fenelon! 👋
 
-<!--
-**Fenelon8/Fenelon8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 I am a Senior at The Ohio State University and I'm Management Information Systems (MIS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I am interested in using technology to solve business problems. I'm also a Real Estate Agent here in OHIO.
+
+🌱 I am currently developing my skills in GitHub, data analysis, information systems, project management, JavaScript, SQL and cloud computing.
+
+## My Interests
+
+- Business and technology
+- Data analysis
+- Information systems
+- Cloud computing
+- Project management
+- Real Estate
+
+## Current Goals
+
+- Build practical technology projects
+- Strengthen my technical and business skills
+- Connect with other technology professionals
+- Prepare for a successful career in information technology
